@@ -1,0 +1,9 @@
+{
+    "izumi": {
+        "time": 120,
+        "expiry": "8/8/2025",
+        "cooldownActive": false,
+        "maxCons": "2",
+        "curCons": 0
+    }
+}

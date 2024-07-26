@@ -1,0 +1,57 @@
+{
+
+  "SYN": {
+    "method": "!syn"
+  },
+  "ACK": {
+    "method": "!ack"
+  },
+  "GUDP": {
+    "method": "!gudp"
+  },
+  "SOCKET": {
+    "method": "!socket"
+  },
+  "TCPBYPASS": {
+    "method": "!tcpbypass"
+  },
+  "TCPLEGIT": {
+    "method": "!wra"
+  },
+  "STOMP": {
+    "method": "!STOMP"
+  },
+  "OVH": {
+    "method": "!ovh"
+  },
+  "SHAKE": {
+    "method": "!handshake"
+  },
+  "UDP": {
+    "method": "!udpraw"
+  },
+  "STD": {
+    "method": "!std"
+  },
+  "UDPPLAIN": {
+    "method": "!udpplain"
+  },
+  "GREIP`": {
+    "method": "!gre"
+  },
+  "GAME": {
+    "method": "!RAKNET"
+  },
+  "DATA": {
+    "method": "!syndata"
+  },
+  "UDPBYPASS": {
+    "method": "!udpbypass"
+  },
+  "SHOLD": {
+    "method": "!sockethold"
+  },
+  "OVPN": {
+    "method": "!openvpn"
+  }
+}
